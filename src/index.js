@@ -1,0 +1,1 @@
+document.write("React webpack starter kit");
