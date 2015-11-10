@@ -4,7 +4,7 @@
   "description": "react webpack starter kit",
   "main": "src/index.js",
   "scripts": {
-    "prepublish": "parallelshell -w \"npm run build:src -s\" \"npm run build:example -s\" \"npm run build:bower -s\"",
+    "prepublish": "parallelshell -w \"npm run build:src -s\"  \"npm run build:bower -s\"",
     "prebuild": "rimraf src example build",
     "build:src": "babel src --out-dir src --source-maps --ignore src/example",
     "build:example": "webpack --config webpack.config.js"
