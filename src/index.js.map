@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;AAAA,QAAQ,CAAC,KAAK,CAAC,2BAA2B,CAAC,CAAC","file":"index.js","sourcesContent":["document.write(\"React webpack starter kit\");"]}
