@@ -1,6 +1,17 @@
-"use strict";
+import React, { Component, PropTypes } from 'react';
 
-document.write("React webpack starter kit");
-//# sourceMappingURL=index.js.map
-//# sourceMappingURL=index.js.map
-//# sourceMappingURL=index.js.map
+class App extends Component {
+  static propTypes = {
+    data: PropTypes.string.isRequired
+  };
+
+  render() {
+  	const { data } = this.props;
+    return (
+      <div>{data}</div>
+    );
+  }
+}
+
+
+React.render(<App data="Hello react with hot-reload"/>, document.body);

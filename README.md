@@ -3,7 +3,7 @@
 Quickly start your next project with React/Webpack/ES6/Hot-reload and more...
 
 
-## Development
+## Usage
 
 ```bash
 git clone git@github.com:cht8687/react-webpack-starter-kit.git
