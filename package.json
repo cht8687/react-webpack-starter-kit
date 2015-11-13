@@ -1,6 +1,6 @@
 {
   "name": "react-webpack-starter-kit",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "react webpack starter kit",
   "main": "dist/index.js",
   "scripts": {
