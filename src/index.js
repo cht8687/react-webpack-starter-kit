@@ -1,17 +1,5 @@
-import React, { Component, PropTypes } from 'react';
-
-class App extends Component {
-  static propTypes = {
-    data: PropTypes.string.isRequired
-  };
-
-  render() {
-  	const { data } = this.props;
-    return (
-      <div>{data}</div>
-    );
-  }
-}
+import React from 'react';
+import App from './App';
 
 
-React.render(<App data="Hello react with hot-reload"/>, document.body);
+React.render(<App />, document.body);

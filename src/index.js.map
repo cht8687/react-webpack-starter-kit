@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;AAEb,QAAQ,CAAC,KAAK,CAAC,2BAA2B,CAAC,CAAC","file":"index.js","sourcesContent":["\"use strict\";\n\ndocument.write(\"React webpack starter kit\");\n//# sourceMappingURL=index.js.map\n//# sourceMappingURL=index.js.map\n//# sourceMappingURL=index.js.map\n//# sourceMappingURL=index.js.map"]}
