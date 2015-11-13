@@ -1,13 +1,13 @@
 {
   "name": "react-webpack-starter-kit",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "react webpack starter kit",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "prepublish": "parallelshell -w \"npm run build:src -s\"  \"npm run build:bower -s\"",
-    "prebuild": "rimraf src example build",
-    "build:src": "babel src --out-dir src --source-maps --ignore src/example",
-    "build:example": "webpack --config webpack.config.js"
+    "prepublish": "parallelshell -w \"npm run build:dist -s\" \"npm run build:app -s\"  \"npm run build:bower -s\"",
+    "prebuild": "rimraf dist app build",
+    "build:dist": "babel src --out-dir dist --source-maps --ignore src/app",
+    "build:app": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
