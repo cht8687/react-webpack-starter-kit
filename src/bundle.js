@@ -54,7 +54,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "5504fa88b6cd624a628e"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "e64f3647cb3c2368f1cc"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
 /******/ 	
@@ -20483,7 +20483,7 @@
 	      return _react2['default'].createElement(
 	        'div',
 	        null,
-	        'Hi hot reload!'
+	        'Hi hot reload!s'
 	      );
 	    }
 	  }]);
