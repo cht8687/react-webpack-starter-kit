@@ -1,6 +1,6 @@
 {
   "name": "react-webpack-starter-kit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "react webpack starter kit",
   "main": "dist/index.js",
   "scripts": {
@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/cht8687/react-webpack-starter-kit#readme",
   "peerDependencies": {
-    "react": "^0.13.3"
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
   },
   "devDependencies": {
     "babel": "^5.8.23",
