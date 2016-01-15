@@ -1,29 +1,13 @@
 # react-webpack-starter-kit
 
-Quickly start your next project with React/Webpack/ES6/Hot-reload and more...
 
-## npm
-
-```bash
-npm install react-webpack-starter-kit
-```
-```bash
-cd ../node_modules/react-webpack-starter-kit
-```
-```bash
-npm install
-```
-```bash
-webpack-dev-server
-```
-`tips:` If you have already had webpack-dev-server running, you might have EADDRINUSE error, please ensure the port is not in use.
+Quickly start your next project with React/Webpack/ES6/Hot-reloader ...
 
 
-
-## Develop
+## Install it:
 
 ```bash
-git clone git@github.com:cht8687/react-webpack-starter-kit.git
+git clone https://github.com/cht8687/react-webpack-starter-kit.git
 ```
 ```bash
 cd react-webpack-starter-kit
@@ -34,7 +18,6 @@ npm install
 ```bash
 webpack-dev-server
 ```
-`tips:` If you have already had webpack-dev-server running, you might have EADDRINUSE error, please ensure the port is not in use.
 
 #Then 
 
