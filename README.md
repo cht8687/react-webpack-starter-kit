@@ -1,9 +1,9 @@
 # react-webpack-starter-kit
 
 
-Quickly start your next project with React/Webpack/ES6/Hot-reloader ...
+Quickly start your next project with React/Webpack/ES6/...
 
-* None-Redux,flux: Chose your own prefered state management framework
+* No Redux,flux, clean React + Webpack
 
 
 ## Install it:

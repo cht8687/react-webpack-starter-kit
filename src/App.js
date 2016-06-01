@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
 
     return (
-      <div>Hi hot reload!</div>
+      <div>Hi React!</div>
     );
   }
 }
