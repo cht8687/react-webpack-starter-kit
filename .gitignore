@@ -16,6 +16,8 @@ node_modules
 # Precommit hook
 .jshint*
 
+/dist/
+
 /example/
 .coveralls.yml
 /reports/
