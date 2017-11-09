@@ -28,7 +28,7 @@ webpack-dev-server
 ```
 
 
-#Then 
+# Then 
 
 ```bash
 open http://localhost:8080/webpack-dev-server/
